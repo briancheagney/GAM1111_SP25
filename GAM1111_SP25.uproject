@@ -12,15 +12,11 @@
 			]
 		},
 		{
-			"Name": "GaeaUnrealTools",
-			"Enabled": true
-		},
-		{
 			"Name": "Gaea",
 			"Enabled": false
 		}
 	],
 	"AdditionalPluginDirectories": [
-		"C:/Users/Classroom User/Downloads/Gaea2Unreal-2.1.0.0"
+		"../../../Classroom User/Downloads/Gaea2Unreal-2.1.0.0"
 	]
 }
