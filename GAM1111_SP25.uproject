@@ -10,6 +10,13 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Gaea",
+			"Enabled": false
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../Classroom User/Downloads/Gaea2Unreal-2.1.0.0"
 	]
 }
